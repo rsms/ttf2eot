@@ -1,0 +1,8 @@
+.DS_Store
+*.o
+*.d
+*.core
+*.obj
+*.exe
+core
+ttf2eot
